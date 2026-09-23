@@ -11,7 +11,7 @@ Analysis of privacy and ethical risks associated with Microsoft's AI Recall feat
 Analysis of CVE-2025-3462 and CVE-2025-3463, including affected systems,
 vulnerability mechanisms, impact, and mitigation.
 
-[View Presentation](ASUS-Vulnerability/ASUS-Update-Vulnerability-Analysis.pdf)
+[View Presentation](ASUS-Update-Vulnerability-Analysis.pdf)
 
 ### Secure Network Infrastructure Design
 Designed a segmented network architecture incorporating DMZ,
